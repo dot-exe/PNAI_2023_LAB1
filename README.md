@@ -29,10 +29,10 @@ This project is based on Python 3.10.7. Please consider to use mentioned version
 ### Django
 Use `pip install django` in your terminal to install the newest version of Django. If you want to install the one used in this project (4.2.1) use `pip install=django=4.2.1` to specify.
 ### Check setup
-Make sure, that Python and Django are installed. Run `python --version` and `python -m django --version` to check if they are installed.
+Make sure, that Python and Django are installed. Run `python --version` and `python -m django --version` to check that.
 
-### Run project
-To run this project, you have to:
+## Run project
+To run this project:
 + Open terminal and go to the directory with `manage.py` script
   + `cd biblioteka`
 + Make migration of your models to a database
